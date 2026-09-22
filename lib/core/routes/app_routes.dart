@@ -1,5 +1,4 @@
 class AppRoutes {
-  static const String regiesterScreen = 'registerScreen';
-    static const String loginScreen = 'registerScreen';
-
-} 
+  static const String registerScreen = 'registerScreen';
+  static const String loginScreen = 'loginScreen';
+}
